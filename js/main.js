@@ -887,7 +887,7 @@
     initApp();
 
 })();
-const RADIO_NAME = 'Tierradentro Stereo';
+const RADIO_NAME = 'Bacana Online Digital';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
 const URL_STREAMING = 'https://stream.zeno.fm/vt029ye33mruv';
@@ -898,7 +898,7 @@ const URL_STREAMING = 'https://stream.zeno.fm/vt029ye33mruv';
 // For example, if the mount point is 'vt029ye33mruv/source',
 // the API link will be 'https://api.zeno.fm/mounts/metadata/subscribe/vt029ye33mruv'.
 
-const url = 'https://api.zeno.fm/mounts/metadata/subscribe/vt029ye33mruv';
+const url = 'https://api.zeno.fm/mounts/metadata/subscribe/pcsxei1d3h0tv';
 
 // Visit https://api.vagalume.com.br/docs/ to get your API key
 const API_KEY = "18fe07917957c289983464588aabddfb";
